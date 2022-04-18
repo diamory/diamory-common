@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "assertthat": "6.5.2",
-    "roboter": "13.0.0"
+    "roboter": "13.1.0"
   },
   "scripts": {},
   "repository": {
