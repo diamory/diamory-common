@@ -20,7 +20,7 @@
     "uuid": "8.3.2"
   },
   "devDependencies": {
-    "@types/jest": "27.4.1",
+    "@types/jest": "27.5.0",
     "@types/node-forge": "1.0.1",
     "assertthat": "6.5.2",
     "jest": "27.5.1",
