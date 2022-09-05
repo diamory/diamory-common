@@ -17,7 +17,7 @@
     "react-native-fs": "2.19.0",
     "scrypt-js": "3.0.1",
     "typedarray-to-buffer": "4.0.0",
-    "uuid": "8.3.2"
+    "uuid": "9.0.0"
   },
   "devDependencies": {
     "@types/jest": "27.4.1",
